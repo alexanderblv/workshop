@@ -31,8 +31,8 @@ The following steps will install Aleo and Leo on your machine. This workshop is 
 
 This workshop requires the following prerequisites.
 
-- Install `git` with [bit.ly/start-git](https://bit.ly/start-git)
-- Install `Rust`with [bit.ly/start-rust](https://bit.ly/start-rust)
+- Install `git` with [bit.ly/start-git](https://git-scm.com/downloads)
+- Install `Rust`with [bit.ly/start-rust](https://www.rust-lang.org/tools/install)
 
 ### Installation
 
